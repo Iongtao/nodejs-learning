@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-learning",
+  "version": "1.0.0",
+  "description": "learn nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "caoyj",
+  "license": "ISC",
+  "devDependencies": {
+    "minimist": "^1.2.5"
+  }
+}
